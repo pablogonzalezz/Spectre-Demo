@@ -23,3 +23,6 @@ Assim como no Windows, é necessário estar no diretório onde o arquivo "spectr
 3. Para rodar o programa:
 		
 		> $ ./spectre
+
+## Créditos
+O código nesse arquivo foi produzido por [Felix Wu](https://github.com/flxwu)
