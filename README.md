@@ -23,7 +23,8 @@ Assim como no Windows, é necessário estar no diretório onde o arquivo "spectr
 3. Para rodar o programa:
 		
 		> $ ./spectre
-		
+![Rodando o código no Terminal](https://github.com/pablogonzalezz/Spectre-Demo/blob/master/ubuntu-spectre.png)	
+
 ## Contato
 Estou desenvolvendo uma pesquisa sobre o Benchmark de processadores que passaram pelos patches de correção do Spectre e do Meltdown. Clique nesse [link](https://drive.google.com/file/d/1iHyBLUc5CWSCUwrL0ALKHaIWmrifMfSo/view?usp=sharing) para ver!
 
